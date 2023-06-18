@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Separatehhh23
-- 👀 I’m interested in preogramming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
