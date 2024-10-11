@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Separatehhh23
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning unity
+- 🌱 I’m currently learning tanstack start
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me: sep@siesque.com
 
