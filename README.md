@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @septechx
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning zig
+- 🌱 I’m currently learning rust
 
 <!---
 septechx/septechx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
