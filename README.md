@@ -1,4 +1,4 @@
- Hi, I like making software.
+ Hi, I like making software. <br>
  Contact me on discord: septech
 
 [![GitHub stats](https://github-readme-stats-seven-alpha-91.vercel.app/api?username=septechx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
