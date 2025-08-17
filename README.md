@@ -16,7 +16,7 @@
 <h1></h1>
 
 <div>
-<img src="https://github-readme-stats-seven-alpha-91.vercel.app/api/pin/?username=septechx&repo=oxfmt&theme=tokyonight">
-<img src="https://github-readme-stats-seven-alpha-91.vercel.app/api/pin/?username=septechx&repo=mcmodbuild&theme=tokyonight">
+<a href="https://github.com/septechx/oxfmt"><img src="https://github-readme-stats-seven-alpha-91.vercel.app/api/pin/?username=septechx&repo=oxfmt&theme=tokyonight"></a>
+<a href="https://github.com/septechx/mcmodbuild"><img src="https://github-readme-stats-seven-alpha-91.vercel.app/api/pin/?username=septechx&repo=mcmodbuild&theme=tokyonight"></a>
 </div>
 
