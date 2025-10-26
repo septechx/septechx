@@ -1,4 +1,4 @@
-<h2>Average developer</h2>
+<!--<h2>Average developer</h2>-->
 
 <div>
 <img src="https://img.shields.io/badge/Discord-%40septech-brightgreen?style=flat&logo=Discord&color=1A1B27&labelColor=1A1B27" alt="Discord: @septech">
