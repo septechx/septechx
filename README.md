@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white&color=1A1B27" alt="Rust">
 <img src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff&color=1A1B27" alt="Zig">
 <img src="https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff&color=1A1B27" alt="F#">
+<img src="https://img.shields.io/badge/C++-378BBA?logo=cplusplus&logoColor=fff&color=1A1B27" alt="C++">
 </div>
 
 <div>
