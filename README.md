@@ -12,8 +12,8 @@
 </div>
 
 <div>
-<img align="center" height="200" src="https://github-stats-extended.vercel.app/api?username=septechx&theme=tokyonight">
-<img align="center" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=septechx&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=dotfiles,unduck">
+<img align="center" height="200" src="https://github-stats-extended.vercel.app/api?username=septechx&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+<img align="center" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=septechx&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=dotfiles,unduck&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
 </div>
 
 <!--
